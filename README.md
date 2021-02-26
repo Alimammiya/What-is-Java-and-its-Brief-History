@@ -78,3 +78,4 @@ Popular frameworks such as Apache Spark and Apache Hadoop both are used in the b
 Most of today’s embedded systems like Television, DVD player, Microwave Oven, Multimedia Player, Smartwatches, etc. some or the other way use Java in its core. Even some old keypad phones in the past were backed by Java.
 
 Embedded Systems generally have low memory and low processing power. Java still works efficiently in these types of systems by managing memory and processing power.
+Original Post -  [What is java](https://alimammiya.hashnode.dev/what-is-java-and-its-brief-history)
